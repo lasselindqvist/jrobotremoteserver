@@ -16,7 +16,7 @@ New version:
 .. code:: xml
 
     <dependency>
-        <groupId>org.robotframework</groupId>
+        <groupId>io.github.lasselindqvist</groupId>
         <artifactId>jrobotremoteserver</artifactId>
         <version>4.1.0</version>
     </dependency>
@@ -26,9 +26,9 @@ Old version
 .. code:: xml
 
     <dependency>
-        <groupId>com.github.ombre42</groupId>
+        <groupId>org.robotframework</groupId>
         <artifactId>jrobotremoteserver</artifactId>
-        <version>3.0</version>
+        <version>4.1.0</version>
     </dependency>
 
 License
